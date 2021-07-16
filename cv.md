@@ -6,7 +6,7 @@ I'm studying web development with different kind of online courses, my wish is t
 
 Skills: html, css
 
-Education: Tbilisi State University - Computer Science. Bitcamp Udemy - Javascript course Codecademy - Command Line, Git, HTML, CSS
+Education: Tbilisi State University - Computer Science. Bitcamp; Udemy - Javascript course; Codecademy - Command Line, Git, HTML, CSS.
 
 English: I studied English since childhood in school, also I used to learn in Caucasus University, where I had my lectures in English, this experience helped me to have some practice in English.
 
